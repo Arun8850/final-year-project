@@ -6,7 +6,7 @@ import pymysql
 from twilio.rest import Client
 import pickle
 import numpy as np
-
+#1232
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
 
